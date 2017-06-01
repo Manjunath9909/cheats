@@ -1,2 +1,2 @@
 # cheats
-Stuff that might help you in any way.
+this repo contains stuff mostly i can understand faster that others can.
